@@ -1,0 +1,5 @@
+ID,queuename,exception_comment,actiondate
+1005,Exception,ID card missed,4/9/2020
+1004,Exception,signature mismatch,1/9/2020
+1004,Exception,ID missed,17/11/2020
+1005,Exception,Signature mismatch,15/11/2020

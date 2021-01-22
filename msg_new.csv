@@ -1,0 +1,6 @@
+mesg_trn_no ,Mesg_type ,Field_code ,Field_value ,mesg_crea_date_time
+TF1005,700,50,CVC pvt.ltd,10/10/2020
+TF1006,710,59,PVC,1/9/2020
+TF1005,710,59,Mahindra,12/10/2020
+TF1005,707,50,Mahindra,12/11/2020
+TF1006,707,59,AVON,17/11/2020
